@@ -22,11 +22,6 @@ import androidx.compose.ui.unit.dp
 import com.armaan.coffeemasters.R
 import com.armaan.coffeemasters.ui.theme.Alternative2
 import com.armaan.coffeemasters.ui.theme.TextLight
-
-//  comp+tab -> snippet for a composable function
-//  prev+tab -> snippet for a preview composable function
-
-
 //@Preview(showBackground = true, widthDp = 400)
 //@Composable
 //private fun Offer_Preview() {
@@ -34,7 +29,7 @@ import com.armaan.coffeemasters.ui.theme.TextLight
 //}
 
 
-//@Preview(showBackground = true)
+@Preview(showBackground = true)
 @Composable
 fun OffersPage() {
     Column(
